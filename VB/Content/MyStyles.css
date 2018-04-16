@@ -1,0 +1,14 @@
+﻿body {
+}
+
+td {
+    vertical-align: top;
+}
+
+.draggingStyle {
+    background-color: lightblue;
+}
+
+.targetGrid {
+    background-color: lightcoral !important;
+}
