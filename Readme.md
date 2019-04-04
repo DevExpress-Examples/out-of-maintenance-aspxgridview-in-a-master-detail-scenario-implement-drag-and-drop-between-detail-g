@@ -3,7 +3,7 @@
 
 * [MyStyles.css](./CS/Content/MyStyles.css)
 * **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))**
-* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 * [MyJavaScript.js](./CS/MyJavaScript.js) (VB: [MyJavaScript.js](./VB/MyJavaScript.js))
 <!-- default file list end -->
 # ASPxGridView in a master-detail scenario - Implement drag and drop between detail grids
